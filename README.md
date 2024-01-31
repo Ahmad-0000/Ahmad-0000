@@ -1,6 +1,6 @@
 <h1 align="center">I'm Ahmad Husain</h1>
 <h3 align="center">An 18 years old medicine student who aims to be a software engineer.</h3>
-<img src="https://github.com/Ahmad-0000/alx-low_level_programming/blob/master/download%20(1).png" width="400" style="text-align: center; margin: 10px;" alt="Coding image." />
+<img src="https://github.com/Ahmad-0000/alx-low_level_programming/blob/master/download%20(1).png" align="right" alt="Coding image." />
 
 - 🌱 I’m currently learning **C, Python, Data structures and Algorithms.**
 
