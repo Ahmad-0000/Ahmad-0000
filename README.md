@@ -1,12 +1,7 @@
-<style>
-    p {
-      font-size: 30px;
-    }
-</style>
 <h1 align="center">I'm Ahmad Husain</h1>
 <h3 align="center">An 18 years old medicine student who aims to be a software engineer.</h3>
 <img src="https://github.com/Ahmad-0000/alx-low_level_programming/blob/master/download%20(1).png" align="right" alt="Coding image." />
-
+<style>p {font-size: 24px;}</style>
 - 🌱 I’m currently learning **C, Python, Data structures and Algorithms.**
 
 - 👨‍💻 All of my projects are available at [www.github.com/Ahmad-0000](www.github.com/Ahmad-0000)
