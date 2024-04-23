@@ -1,16 +1,16 @@
 <h1 align="center">I'm Ahmad Husain</h1>
-<h3 align="center">An 18 years old medicine student who aims to be a software engineer.</h3>
+<h3 align="center">An 19 years old medicine student who aims to be a software engineer and Data Science.</h3>
 <img src="https://github.com/Ahmad-0000/alx-low_level_programming/blob/master/download%20(1).png" align="right" alt="Coding image." />
 
-- 🌱 I’m currently learning **C, Python, Data structures and Algorithms.**
+- 🌱 I’m currently learning **C, Python, HTML, CSS, JavaScript, R, DevOps, Data structures and Algorithms, Linux, Math adn Statistics**
 
 - 👨‍💻 All of my projects are available at [www.github.com/Ahmad-0000](www.github.com/Ahmad-0000)
 
-- 💬 Ask me about **C, Python and Data structures.**
+- 💬 Ask me about **C, Python, HTML, CSS and Data structures.**
 
 - 📫 How to reach me **ahmad.new.m.v@gmail.com**
 
-- ⚡ Fun fact **I aim to be a software engineer in one year**
+- ⚡ Fun fact **I aim to be a software engineer in one year and 3 months**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
